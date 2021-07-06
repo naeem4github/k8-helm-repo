@@ -3,7 +3,7 @@ entries:
   javawebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-06T16:25:53.999601394Z"
+    created: "2021-07-06T17:01:28.758096573Z"
     description: A Helm chart for Kubernetes
     digest: 5b72f20eaaaaac6a25d0c713fd16ec0f14ca434c5e91f1d51c839f48ec8dbdef
     name: javawebapp
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://naeem4github.github.io/k8-helm-repo/javawebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-06T16:25:53.998146464Z"
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-06T17:01:28.759574295Z"
+    description: A Helm chart for Kubernetes
+    digest: c12b13468bcec793600affc0b7fb624c4e78137cad4e5d7439b1365d07ba10d4
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://naeem4github.github.io/k8-helm-repo/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-06T17:01:28.754109763Z"
